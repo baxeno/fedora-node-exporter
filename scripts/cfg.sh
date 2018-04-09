@@ -3,7 +3,7 @@
 # Setup specific Prometheus node-exporter version.
 #
 # New revisions can be found here:
-# https://hub.docker.com/r/prom/prometheus/tags/
+# https://hub.docker.com/r/prom/node-exporter/tags/
 #
 # Example:
 # REVISION="v0.15.2"
